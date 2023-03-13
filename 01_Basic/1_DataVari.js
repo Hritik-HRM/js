@@ -8,7 +8,7 @@ var accountPassword = "21212122121" // do not use it, because of issue in block 
 // accountId = 1 // gives TypeError: Assignment to constant variable
 
 
-let name = "Hritik"
+let name = "app"
 let age = 20
 let isLoggedIn = false
 let state
