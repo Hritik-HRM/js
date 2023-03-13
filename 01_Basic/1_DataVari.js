@@ -14,4 +14,4 @@ let isLoggedIn = false
 let state
 
 console.table([typeof name, typeof age, typeof isLoggedIn, typeof state])
-console.log(typeof null, state) // object
+console.log(typeof null, state) // object   
